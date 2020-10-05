@@ -1,0 +1,1 @@
+# AFINN-fa
